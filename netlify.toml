@@ -1,0 +1,3 @@
+[build]
+  command = "chmod +x build.sh && ./build.sh"
+  publish = "client/build"  # Ajusta la ruta según la estructura de tu proyecto
